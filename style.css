@@ -1,0 +1,27 @@
+/* საერთო სტილები */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  margin: 20px;
+}
+
+h1 {
+  color: darkblue;
+  font-size: 36px;
+  background-color: #d0e6ff;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+h2 {
+  color: darkgreen;
+  font-size: 28px;
+  background-color: #e1f5e1;
+  padding: 8px;
+  border-radius: 6px;
+}
+
+p {
+  font-size: 18px;
+  color: #333;
+}
